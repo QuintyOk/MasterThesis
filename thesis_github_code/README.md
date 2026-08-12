@@ -1,4 +1,4 @@
-# ASML mobility policy thesis code
+# Mobility policy thesis code
 
 This repository contains the analysis scripts and Qualtrics survey instruments used for the master thesis *One Commute, Multiple Perspectives*.
 
