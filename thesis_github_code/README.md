@@ -37,7 +37,7 @@ The scripts retain the original relative data paths used during the thesis. Most
 
 ## Data availability
 
-The employee-level survey data are confidential and are excluded from this repository. The expected filenames are listed in `data/README.md`.
+The employee-level survey data are confidential and are excluded from this repository. The expected filenames are listed in `data/README.md`. For reproducibility, the two QSF survey instrument files can be uploaded directly to Qualtrics to recreate the surveys and collect a new dataset.
 
 
 ## Reproducibility note
