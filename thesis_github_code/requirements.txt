@@ -1,0 +1,7 @@
+biogeme
+matplotlib
+numpy
+openpyxl
+pandas
+python-docx
+scipy
