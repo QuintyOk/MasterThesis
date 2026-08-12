@@ -39,10 +39,8 @@ The scripts retain the original relative data paths used during the thesis. Most
 
 The employee-level survey data are confidential and are excluded from this repository. The expected filenames are listed in `data/README.md`.
 
-The SCE description script can generate an internal Word document containing ResponseIds and open-text answers. Keep this document outside the public repository.
 
 ## Reproducibility note
 
-The source code was cleaned for publication without changing the analytical statements or calculations. The cleaned scripts were compiled successfully and compared with the original scripts using a normalised abstract syntax tree check.
+The source code was cleaned for publication without changing the analytical statements or calculations.
 
-The binary parking-rights script retains the original alternative coding. Review the warning beside its utility specification before re-estimating the model.
